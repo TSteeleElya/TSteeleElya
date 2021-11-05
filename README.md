@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @TSteeleElya
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning SQL, HTML/CSS in college
-- 💞️ I’m looking to collaborate on testing my code to see if it works!
